@@ -1,8 +1,13 @@
 # React + Vite
+# React Portfolio Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React-based Portfolio Dashboard** to showcase skills, projects, and achievements using modern libraries and features.
 
-Currently, two official plugins are available:
+## Features
+- **Portfolio Sections**: About, Skills, Projects, Contact.
+- **Libraries**: Typed.js, React Icons, React Hot Toast, React Hook Form, React Scroll.
+- **JS Features**: Async/Await, Arrow Functions, Fragmentation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contact
+For queries, email at `nikhiladabe31@gmail.com`.
+
