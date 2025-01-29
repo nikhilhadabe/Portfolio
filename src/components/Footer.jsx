@@ -60,7 +60,7 @@ function Footer() {
             <FaLinkedin size={28} />
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/nikhilhadabe"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-400 transition"

@@ -1,3 +1,4 @@
+
 import React from 'react'
 import java from "../../public/java.png"
 import python from "../../public/python.webp"
@@ -59,8 +60,8 @@ function Portfolio() {
                             <p className="px-2 text-gray-700">Hi hello how are you</p>
                         </div>
                         <div className=" px-6 py-4 space-x-4 justify-around ">
-                            <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded' >Video</button>
-                            <button className='bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded' >Source code</button>
+                            <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded' >buy now</button>
+                            <button className='bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded' >Details</button>
                         </div>
                     </div>
 
@@ -74,3 +75,5 @@ function Portfolio() {
 }
 
 export default Portfolio
+
+
